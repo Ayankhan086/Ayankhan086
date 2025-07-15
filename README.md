@@ -10,7 +10,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ### 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankhan086&show_icons=true&theme=radical)
 
 ### 📫 **How to Reach Me**
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
